@@ -12,7 +12,7 @@ body {
     background-color: #f8f8f8;
     color: black;
     font-family: "Roboto", sans-serif;
-    transition: background-color 1s, color 5s;
+    transition: background-color .5s, color .5s;
 }
 
 body.dark {
