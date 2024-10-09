@@ -7,9 +7,12 @@ export default {
   darkMode: 'class',
   theme: {
     extend: {
-      fontFamily:{
+      fontFamily: {
         'header': ['Playfair Display', 'serif'],
       }
+    },
+    cursor: {
+      'cart': 'url(assets/Mouse.svg), pointer',
     },
   },
   plugins: [],
