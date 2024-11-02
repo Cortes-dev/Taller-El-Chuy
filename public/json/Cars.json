@@ -2,7 +2,7 @@
     "carros": [
         {
             "nombre": "Ferrari 488 GTB",
-            "imagen": "Ferrari 488 GTB.png",
+            "imagen": "../../src/assets/Ferrari 488 GTB.png",
             "descripcion": "El Ferrari 488 GTB es un superdeportivo que combina potencia y elegancia.",
             "motor": {
                 "tipo": "V8",
