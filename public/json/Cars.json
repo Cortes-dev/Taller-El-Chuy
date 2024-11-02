@@ -1,0 +1,123 @@
+{
+    "carros": [
+        {
+            "nombre": "Ferrari 488 GTB",
+            "imagen": "Ferrari 488 GTB.png",
+            "descripcion": "El Ferrari 488 GTB es un superdeportivo que combina potencia y elegancia.",
+            "motor": {
+                "tipo": "V8",
+                "potencia": "670 HP",
+                "torque": "760 Nm",
+                "capacidad": "3.9 L"
+            },
+            "informacion_adicional": {
+                "aceleracion_0_100": "3.0 segundos",
+                "velocidad_maxima": "330 km/h",
+                "transmision": "Automática de 7 velocidades",
+                "peso": "1475 kg"
+            }
+        },
+        {
+            "nombre": "Porsche 911 Carrera S",
+            "imagen": "Porsche 911 Carrera S.png",
+            "descripcion": "Un ícono del automovilismo, el Porsche 911 Carrera S ofrece un rendimiento excepcional.",
+            "motor": {
+                "tipo": "Bóxer 6 cilindros",
+                "potencia": "450 HP",
+                "torque": "530 Nm",
+                "capacidad": "3.0 L"
+            },
+            "informacion_adicional": {
+                "aceleracion_0_100": "3.5 segundos",
+                "velocidad_maxima": "308 km/h",
+                "transmision": "Manual de 7 velocidades o PDK automático",
+                "peso": "1450 kg"
+            }
+        },
+        {
+            "nombre": "Lamborghini Huracán EVO",
+            "imagen": "Lamborghini Huracán EVO.png",
+            "descripcion": "El Huracán EVO es un superdeportivo que redefine la experiencia de conducción.",
+            "motor": {
+                "tipo": "V10",
+                "potencia": "630 HP",
+                "torque": "600 Nm",
+                "capacidad": "5.2 L"
+            },
+            "informacion_adicional": {
+                "aceleracion_0_100": "2.9 segundos",
+                "velocidad_maxima": "325 km/h",
+                "transmision": "Automática de 7 velocidades",
+                "peso": "1422 kg"
+            }
+        },
+        {
+            "nombre": "Aston Martin Vantage",
+            "imagen": "Aston Martin Vantage.png",
+            "descripcion": "El Aston Martin Vantage es un deportivo británico con un diseño agresivo y un manejo preciso.",
+            "motor": {
+                "tipo": "V8 Biturbo",
+                "potencia": "503 HP",
+                "torque": "685 Nm",
+                "capacidad": "4.0 L"
+            },
+            "informacion_adicional": {
+                "aceleracion_0_100": "3.6 segundos",
+                "velocidad_maxima": "314 km/h",
+                "transmision": "Automática de 8 velocidades",
+                "peso": "1530 kg"
+            }
+        },
+        {
+            "nombre": "Nissan GT-R Nismo",
+            "imagen": "Nissan GT-R Nismo.png",
+            "descripcion": "El Nissan GT-R Nismo es un ícono japonés, conocido por su increíble potencia y tracción total.",
+            "motor": {
+                "tipo": "V6 Biturbo",
+                "potencia": "600 HP",
+                "torque": "652 Nm",
+                "capacidad": "3.8 L"
+            },
+            "informacion_adicional": {
+                "aceleracion_0_100": "2.7 segundos",
+                "velocidad_maxima": "330 km/h",
+                "transmision": "Automática de 6 velocidades",
+                "peso": "1725 kg"
+            }
+        },
+        {
+            "nombre": "Chevrolet Corvette C8",
+            "imagen": "Chevrolet Corvette C8.png",
+            "descripcion": "El Chevrolet Corvette C8 marca un nuevo capítulo en la historia del Corvette con su motor central.",
+            "motor": {
+                "tipo": "V8 Atmosférico",
+                "potencia": "495 HP",
+                "torque": "637 Nm",
+                "capacidad": "6.2 L"
+            },
+            "informacion_adicional": {
+                "aceleracion_0_100": "2.9 segundos",
+                "velocidad_maxima": "312 km/h",
+                "transmision": "Automática de 8 velocidades",
+                "peso": "1530 kg"
+            }
+        },
+        {
+            "nombre": "BMW M8 Competition",
+            "imagen": "BMW M8 Competition.webp",
+            "descripcion": "El BMW M8 Competition es un gran turismo deportivo que combina lujo y alto rendimiento.",
+            "motor": {
+                "tipo": "V8 Biturbo",
+                "potencia": "617 HP",
+                "torque": "750 Nm",
+                "capacidad": "4.4 L"
+            },
+            "informacion_adicional": {
+                "aceleracion_0_100": "3.2 segundos",
+                "velocidad_maxima": "305 km/h",
+                "transmision": "Automática de 8 velocidades",
+                "peso": "1885 kg"
+            }
+        }
+    ]
+}

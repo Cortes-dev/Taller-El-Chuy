@@ -1,8 +1,11 @@
 import React from 'react'
+import CardCars from '../layouts/CardCars'
 
 const Carros = () => {
   return (
-    <div>Carros</div>
+    <>
+      <CardCars />
+    </>
   )
 }
 
