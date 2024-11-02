@@ -17,7 +17,7 @@ const CardCars = () => {
   }, []);
 
   const getImagePath = (imageName) => {
-    return `/src/assets/${imageName}`; // Cambiado para apuntar correctamente a la carpeta img
+    return `${imageName}`; // Cambiado para apuntar correctamente a la carpeta img
   };
 
   if (error) {
